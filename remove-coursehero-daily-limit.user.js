@@ -3,9 +3,12 @@
 // @description Removes the Coursehero monthly document preview limit (originally 3).
 // @author Luigi Agcaoili
 // @include *coursehero.com/file/*
-// @version 1.0.1
+// @version 1.0.2
 // @grant none
 // @namespace https://greasyfork.org/users/208370
+// @updateURL https://github.com/luigia/Remove-Coursehero-Monthly-Limit/raw/master/remove-coursehero-daily-limit.user.js
+// @copyright 2019, luigia (https://github.com/luigia)
+// @license MIT
 // ==/UserScript==
 window.addEventListener('load', () => {
   // pop-up modals
